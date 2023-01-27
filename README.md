@@ -1,5 +1,4 @@
-# ML basics with Keras
-## Load and preprocess data
+# Load and preprocess data
 이 레파지토리는 https://www.tensorflow.org/ 에서 제공하는 tutorial을 따라하며
 텐서플로우에서 제시해주는 데이터 로드 및 전처리 방법에 대해 익히기 위한 과정입니다.
 
